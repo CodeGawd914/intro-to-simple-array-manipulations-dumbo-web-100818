@@ -19,5 +19,5 @@ def using_shift(array)
 end
 
 def using_delete_at(array,i)
-  array.delete(i)
+  array.pop(i)
 end
