@@ -13,3 +13,11 @@ end
 def pop_with_args(array)
   array.pop(2)
 end
+
+def using_shift(array)
+  array.shift
+end
+
+def using_delete_at(array,i)
+  array.delete(i)
+end
