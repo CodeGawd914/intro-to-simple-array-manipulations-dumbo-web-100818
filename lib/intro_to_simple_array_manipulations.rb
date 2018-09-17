@@ -25,3 +25,12 @@ end
 def using_delete_at(array,i)
   array.delete(array[i])
 end
+
+def shift_with_args(array)
+  array.shift(2)
+end
+
+  
+  
+  
+  
