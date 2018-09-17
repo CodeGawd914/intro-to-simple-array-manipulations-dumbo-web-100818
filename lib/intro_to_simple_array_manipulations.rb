@@ -38,7 +38,7 @@ def using_insert(array,string)
   array.insert(4,string)
 end
 
-def sing_flatten(array)
+def using_flatten(array)
   array.flatten
 end
   
