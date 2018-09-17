@@ -18,6 +18,10 @@ def using_shift(array)
   array.shift
 end
 
+def using_delete(array,string)
+  array.delete(string)
+end
+  
 def using_delete_at(array,i)
   array.pop(i)
 end
